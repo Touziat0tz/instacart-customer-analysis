@@ -1,0 +1,24 @@
+# Instacart Data Analysis
+
+This repository contains Python scripts and Jupyter notebooks for analyzing Instacart’s customer ordering behavior (Achievement 4).  
+The objective of this project was to explore customer segmentation, regional spending patterns, and product preferences.
+
+## Dataset
+The dataset contains anonymized information from Instacart, including:
+- Customer orders and purchase frequency  
+- Product details and departments  
+- Demographic data (added for analysis)  
+
+This dataset was provided as part of the CareerFoundry Data Analytics course.
+
+## Contents
+- `scripts/`: Python scripts for data cleaning, merging, and profiling  
+- `notebooks/`: Jupyter notebooks with step-by-step exploratory analysis  
+- `visuals/`: Charts and plots created using Matplotlib and Seaborn  
+- `exports/`: Final cleaned datasets and merged files  
+
+## Key Skills
+- Data cleaning and preprocessing in Python (Pandas, NumPy)  
+- Exploratory data analysis (EDA)  
+- Customer segmentation and profiling  
+- Data visualization with Matplotlib and Seaborn 
